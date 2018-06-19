@@ -1,6 +1,6 @@
 {
   "name": "@bpanel/chain-sockets",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A utility plugin for bPanel for managing blockchain state in your redux store",
   "main": "dist/index.js",
   "scripts": {
