@@ -39,7 +39,7 @@
   },
   "peerDependencies": {
     "@bpanel/bpanel-utils": "^0.0.7",
-    "bcoin": "bcoin-org/bcoin.git",
-    "hsd": "handshake-org/hsd"
+    "bcoin": "github:bcoin-org/bcoin.git",
+    "hsd": "github:handshake-org/hsd"
   }
 }
