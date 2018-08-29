@@ -1,6 +1,6 @@
 {
   "name": "@bpanel/chain-sockets",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "A utility plugin for bPanel for managing blockchain state in your redux store",
   "main": "dist/index.js",
   "scripts": {
@@ -38,7 +38,7 @@
     "react": "^16.2.0"
   },
   "peerDependencies": {
-    "@bpanel/bpanel-utils": "^0.0.7",
+    "@bpanel/bpanel-utils": "^0.0.12",
     "bcoin": "github:bcoin-org/bcoin.git",
     "hsd": "github:handshake-org/hsd"
   }
